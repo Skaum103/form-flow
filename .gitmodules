@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Skaum103/form-flow-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Skaum103/form-flow-frontend.git
